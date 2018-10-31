@@ -1,0 +1,7 @@
+look at url_fuzzer.py in:
+ w3af/w3af/plugins/crawl/url_fuzzer.py 
+
+c'est pratiquement la mm chose à faire !!
+
+
+
